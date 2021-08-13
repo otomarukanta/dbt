@@ -1,0 +1,1 @@
+select * from otomarukanta-a.stocks_raw.jpx_companies
